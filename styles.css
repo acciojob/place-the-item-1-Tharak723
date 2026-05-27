@@ -4,12 +4,13 @@
 	display:flex;
 	flex-direction:row;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 #item1{
 	width:80px;
 	height:80px;
 	background-color:green;
-	flex-wrap:wrap;
+	
 	
 }
 #item2{
